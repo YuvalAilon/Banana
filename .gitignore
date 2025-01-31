@@ -1,9 +1,10 @@
 ### IntelliJ IDEA ###
-out/
+Banana/out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 Banana.iml
-.idea
+.idea/
+Banana/.idea/
 
 ### Eclipse ###
 .apt_generated
