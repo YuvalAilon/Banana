@@ -5,6 +5,7 @@ Banana/out/
 Banana.iml
 .idea/
 Banana/.idea/
+.idea/workspace.xml
 
 ### Eclipse ###
 .apt_generated
