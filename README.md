@@ -12,4 +12,7 @@ Below is a list of how each file hides the banana program. This list will be upd
 programs are developed:
 
 ## Banana
-This is the "malicious" program that will be hidden in the rest of the projects.
+Showcases the "malicious" aspect of the program that will be hidden in the rest of the projects, 
+creating the following jpg file of a banana on the user's machine with the name.
+
+![alt text](https://m.media-amazon.com/images/I/31dke4F+cTL._AC_UF894,1000_QL80_.jpg)
