@@ -11,8 +11,12 @@ and run without any ill effects.
 Below is a list of how each file hides the banana program. This list will be updated as more
 programs are developed:
 
-## Banana
+## Level 0: Banana
 Showcases the "malicious" aspect of the program that will be hidden in the rest of the projects, 
 creating the following jpg file of a banana on the user's machine with the name.
 
 ![alt text](https://m.media-amazon.com/images/I/31dke4F+cTL._AC_UF894,1000_QL80_.jpg)
+
+## Level 1: Image Manager
+Hides the url split into parts in a dictionary, and the "validation" function just swaps out the given url with the malicious URL. 
+This level is a reminder to always verify the function of code you download from an unknown source, instead of blindly trusting it.
