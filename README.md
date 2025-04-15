@@ -17,6 +17,8 @@ Hides the URL split into parts in a dictionary, and the "validation" function ju
 
 This level is a reminder to always verify the function of code you download from an unknown source, instead of blindly trusting it.
 
+Security by oscurity is a very weak form of protection, and should **NEVER** be used in real-world applications.
+
 ## Level 2: Encryption
 The URL is Base64 encoded, and the orginal text is not easy to find unless you know that such an encoding occured. Many real-world malicious programs encrypt their instructions to go by undetected by anti-virus programs
 
@@ -44,4 +46,6 @@ Since the change in RGB values is so small, the message is imperceptible to the 
 This image hides part of the first chapter of Pride & Prejudice!
 
 ![PrideAndPrejudice](https://github.com/user-attachments/assets/006cd8fb-f3d7-4bfa-856e-99cca2a918e4)
+
+(While I wrote some steganography code, there are also tools available, like this one: https://stylesuxx.github.io/steganography/)
 
