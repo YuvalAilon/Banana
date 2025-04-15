@@ -47,5 +47,5 @@ This image hides part of the first chapter of Pride & Prejudice!
 
 ![PrideAndPrejudice](https://github.com/user-attachments/assets/006cd8fb-f3d7-4bfa-856e-99cca2a918e4)
 
-(While I wrote some steganography code, there are also tools available, like this one: https://stylesuxx.github.io/steganography/)
+(While I wrote some steganography code, there are also online tools available, like this one: https://stylesuxx.github.io/steganography/)
 
