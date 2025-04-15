@@ -43,4 +43,5 @@ Since the change in RGB values is so small, the message is imperceptible to the 
 
 This image hides part of the first chapter of Pride & Prejudice!
 
+![PrideAndPrejudice](https://github.com/user-attachments/assets/006cd8fb-f3d7-4bfa-856e-99cca2a918e4)
 
